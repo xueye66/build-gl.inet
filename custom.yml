@@ -20,7 +20,7 @@ packages:
   - luci-app-usb-printer
   - luci-app-vssr
   - luci-app-watchcat
-  -luci-app-zerotier
+  - luci-app-zerotier
   
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
