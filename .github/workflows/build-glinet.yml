@@ -5,7 +5,7 @@ on:
     inputs:
       device:
         description: '选择设备'     
-        required: true
+        required: false
         default: 'target_mt7981_gl-mt2500' 
         type: choice
         options:
